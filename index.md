@@ -20,7 +20,7 @@ I am currently a final-year M.Phil student in The Chinese University of Hong Kon
 
 ---
 
-## Research Interests
+## 🧠 Research Interests
 
 - Text Watermarking for LLMs
 - LLM, LLM Safety in general
