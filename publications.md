@@ -4,10 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-
-## Conference Paper
-
-### Text Watermarking
+## Text Watermarking
 
 - An Entropy-based Text Watermarking Detection Method [[ACL 2024]](https://arxiv.org/abs/2403.13485)
 <br>**Yijian Lu**, Aiwei Liu, Dianzhi Yu, Jingjing Li, Irwin King
@@ -19,7 +16,7 @@ title: Publications
 <br>Leyi Pan, Aiwei Liu, Zhiwei He, Zitian Gao, Xuandong Zhao, **Yijian Lu**, Binglin Zhou, Shuliang Liu, Xuming Hu, Lijie Wen, Irwin King
 
 
-### Others
+## Others
 - DeepCURATER: Deep Learning for CoURse And Teaching Evaluation and Review [[IEEE TALE 2021]](https://ieeexplore.ieee.org/abstract/document/9678633)
 <br>Zhihang Hu, Bhaavanaa Thumu, Yuren Qin, ZhiSheng Tao, **Yijian Lu**, Omar Kan, Yu Li, Irwin King
 
