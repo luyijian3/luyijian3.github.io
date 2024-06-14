@@ -8,14 +8,14 @@ layout: page
 
 Here is **Yijian Lu (Lucas, 呂奕鑒)**.
 
-I am currently a final-year M.Phil student in The Chinese University of Hong Kong, supervised by [Prof. Irwin King](https://scholar.google.com/citations?user=MXvC7tkAAAAJ&hl=en). Before that, in 2022, I received my Bachalor's degree in Computer Science from CUHK as well. My research interest is Natural Language Processing, specifically including Large Language Model, Text Watermarking, LLM Safety and Fact-checking.
+I am currently a final-year M.Phil student in The Chinese University of Hong Kong, supervised by Prof. [Irwin King](https://scholar.google.com/citations?user=MXvC7tkAAAAJ&hl=en). Before that, in 2022, I received my Bachalor's degree in Computer Science from CUHK as well. My research interest is Natural Language Processing, specifically including Large Language Model, Text Watermarking, LLM Safety and Fact-checking.
 
 📧 Please feel free to contact me via luyijian@link.cuhk.edu.hk.
 
 ## 🎓 Academic Background
 
-- **Sep 2024 - Future:** Tsinghua University (Incoming CS Phd, supervised by [Prof. Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/))
-- **Aug 2022 - July 2024:** The Chinese University of Hong Kong (MPhil, CS, supervised by [Prof. Irwin King](https://scholar.google.com/citations?user=MXvC7tkAAAAJ&hl=en))
+- **Sep 2024 - Future:** Tsinghua University (Incoming CS Phd, supervised by Prof. <span style="color: blue;">[Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/)</span>)
+- **Aug 2022 - July 2024:** The Chinese University of Hong Kong (MPhil, CS, supervised by Prof. [Irwin King](https://scholar.google.com/citations?user=MXvC7tkAAAAJ&hl=en))
 - **Sep 2018 - July 2022:** The Chinese University of Hong Kong (Bsc, CS)
 
 ---
