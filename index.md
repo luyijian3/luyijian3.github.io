@@ -10,7 +10,7 @@ Here is **Yijian Lu (Lucas, 呂奕鑒)**.
 
 I am currently a final-year M.Phil student in The Chinese University of Hong Kong, supervised by Prof. [Irwin King](https://scholar.google.com/citations?user=MXvC7tkAAAAJ&hl=en). Before that, in 2022, I received my Bachalor's degree in Computer Science from CUHK as well. My research interest is Natural Language Processing, specifically including Large Language Model, Text Watermarking, LLM Safety and Fact-checking.
 
-📧 Please feel free to contact me via luyijian@link.cuhk.edu.hk.
+📧 Please feel free to contact me via **luyijian@link.cuhk.edu.hk**.
 
 ## 🎓 Academic Background
 
