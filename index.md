@@ -8,7 +8,7 @@ layout: page
 
 Here is **Yijian Lu (Lucas, 呂奕鑒)**.
 
-I am currently an incoming Phd student in Tsinghua University, supervised by Prof. [Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/) and supported by [Hong Kong Jockey Club](https://jcscholarships.hk/en). Before that, I received my M.Phil degree in Computer Science from The Chinese University of Hong Kong, supervised by Prof. [Irwin King](https://scholar.google.com/citations?user=MXvC7tkAAAAJ&hl=en). In 2022, I received my Bachalor's degree in Computer Science from CUHK as well. My research interest is Natural Language Processing, specifically including Large Language Model, Text Watermarking, LLM Safety and Fact-checking.
+I am currently an incoming Phd student in Tsinghua University, supervised by Prof. [Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/) and supported by [Hong Kong Jockey Club](https://jcscholarships.hk/en). Before that, I received my M.Phil degree in Computer Science from The Chinese University of Hong Kong in 2024, supervised by Prof. [Irwin King](https://scholar.google.com/citations?user=MXvC7tkAAAAJ&hl=en). In 2022, I received my Bachalor's degree in Computer Science from CUHK as well. My research interest is Natural Language Processing, specifically including Large Language Model, Text Watermarking, LLM Safety and Fact-checking.
 
 📧 Please feel free to contact me via **luyijian@link.cuhk.edu.hk**.
 
