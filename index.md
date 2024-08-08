@@ -30,6 +30,7 @@ My current research focuses on **Text Watermarking for LLMs** and **LLM Safety**
 
 ## 🆕 News and Updates
 
+- **27 July 2024:** Glad to serve as a reviewer for [ICONIP 2024](https://iconip2024.org/)
 - **31 May 2024:** 🎉 Passed my M.Phil oral defense with the topic "Text Watermarking in the Era of Large Language Models: Enhancement and Extension"
 - **26 May 2024:** Invited to serve as a reviewer for [NeurIPS 2024](https://neurips.cc/)
 - **16 May 2024:** 🎉 My paper "[An Entropy-based Text Watermarking Detection Method](https://arxiv.org/abs/2403.13485)" has been accepted to [ACL 2024](https://2024.aclweb.org/) Main Conference! 
