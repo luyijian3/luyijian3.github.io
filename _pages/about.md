@@ -9,10 +9,13 @@ redirect_from:
 
 Here is **Yijian Lu (Lucas, 呂奕鑒)**. I am currently a year-one Ph.D student in Tsinghua University, supervised by Prof. [Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/) and supported by [Hong Kong Jockey Club](https://jcscholarships.hk/en). Before that, I received my M.Phil degree in Computer Science from The Chinese University of Hong Kong in 2024, supervised by Prof. [Irwin King](https://scholar.google.com/citations?user=MXvC7tkAAAAJ&hl=en). In 2022, I received my Bachalor's degree in Computer Science from CUHK as well. 
 <br>My research interest is Natural Language Processing, specifically including Large Language Model, Text Watermarking, LLM Safety and Fact-checking.
-<br>📧 Please feel free to contact me via **luyj24@mails.tsinghua.edu.cn**
+
+📧 Contact
+-----
+Please feel free to contact me via **luyj24@mails.tsinghua.edu.cn**
 
 🆕 News and Updates
-------
+======
 - **2024.08:** 🎉🎉 Excited to announce the our paper: [“A Survey of Text Watermarking in the Era of Large Language Models”](https://survey-text-watermark.github.io/index.html) is accepted by [ACM Computing Surveys](https://dl.acm.org/journal/csur)!
 - **2024.08:** Glad to serve as a reviewer for [ICLR 2025](https://iclr.cc/)
 - **2024.07:** Glad to serve as a reviewer for [ICONIP 2024](https://iconip2024.org/)
