@@ -8,15 +8,18 @@ redirect_from:
 ---
 
 Here is **Yijian Lu (Lucas, 呂奕鑒)**.
-I am currently a year-one Phd student in Tsinghua University, supervised by Prof. [Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/) and supported by [Hong Kong Jockey Club](https://jcscholarships.hk/en). Before that, I received my M.Phil degree in Computer Science from The Chinese University of Hong Kong in 2024, supervised by Prof. [Irwin King](https://scholar.google.com/citations?user=MXvC7tkAAAAJ&hl=en). In 2022, I received my Bachalor's degree in Computer Science from CUHK as well. 
+I am currently a year-one Ph.D student in Tsinghua University, supervised by Prof. [Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/) and supported by [Hong Kong Jockey Club](https://jcscholarships.hk/en). Before that, I received my M.Phil degree in Computer Science from The Chinese University of Hong Kong in 2024, supervised by Prof. [Irwin King](https://scholar.google.com/citations?user=MXvC7tkAAAAJ&hl=en). In 2022, I received my Bachalor's degree in Computer Science from CUHK as well. 
 My research interest is Natural Language Processing, specifically including Large Language Model, Text Watermarking, LLM Safety and Fact-checking.
 📧 Please feel free to contact me via **luyj24@mails.tsinghua.edu.cn**
 
-A data-driven personal website
+🆕 News and Updates
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- **2024.08:** 🎉🎉 Excited to announce the our paper: [“A Survey of Text Watermarking in the Era of Large Language Models”](https://survey-text-watermark.github.io/index.html) is accepted by [ACM Computing Surveys](https://dl.acm.org/journal/csur)!
+- **2024.08:** Glad to serve as a reviewer for [ICLR 2025](https://iclr.cc/)
+- **2024.07:** Glad to serve as a reviewer for [ICONIP 2024](https://iconip2024.org/)
+- **2024.05:** 🎉🎉 Passed my M.Phil oral defense with the topic "Text Watermarking in the Era of Large Language Models: Enhancement and Extension"
+- **2024.05:** Invited to serve as a reviewer for [NeurIPS 2024](https://neurips.cc/)
+- **2024.05:** 🎉🎉 My paper ["An Entropy-based Text Watermarking Detection Method"](https://aclanthology.org/2024.acl-long.630/) has been accepted to [ACL 2024](https://2024.aclweb.org/) Main Conference! 
 
 Getting started
 ======
