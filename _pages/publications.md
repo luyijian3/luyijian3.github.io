@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 2024
-------
+===
 
 **An Entropy-based Text Watermarking Detection Method**
 - **Yijian Lu**, Aiwei Liu, Dianzhi Yu, Jingjing Li, Irwin King
@@ -24,7 +24,7 @@ author_profile: true
 - Arxiv [[Paper]](https://arxiv.org/abs/2409.05112)
 
 2021
-------
+===
 
 **DeepCURATER: Deep Learning for CoURse And Teaching Evaluation and Review**
 - Zhihang Hu, Bhaavanaa Thumu, Yuren Qin, ZhiSheng Tao, **Yijian Lu**, Omar Kan, Yu Li, Irwin King
