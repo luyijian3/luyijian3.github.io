@@ -24,9 +24,9 @@ Here is **Yijian Lu (Lucas, 呂奕鑒)**. I am currently a year-one Ph.D student
 📚 Selected Publications
 ======
 - An Entropy-based Text Watermarking Detection Method [[ACL 2024]](https://aclanthology.org/2024.acl-long.630/) 1️⃣ 
-- A survey of text watermarking in the era of large language models [[ACM]](https://arxiv.org/abs/2312.07913) [[Webpage]](https://survey-text-watermark.github.io/index.html) 🤝
-- MarkLLM: An Open-Source Toolkit for LLM Watermarking [[Arxiv]](https://arxiv.org/abs/2405.10051) 🤝
-- WaterSeeker: Efficient Detection of Watermarked Segments in Large Documents [[Arxiv]](https://arxiv.org/abs/2409.05112) 🤝
+- A survey of text watermarking in the era of large language models [[ACM]](https://arxiv.org/abs/2312.07913) [[Webpage]](https://survey-text-watermark.github.io/index.html) [^🤝]
+- MarkLLM: An Open-Source Toolkit for LLM Watermarking [[Arxiv]](https://arxiv.org/abs/2405.10051) [^🤝]
+- WaterSeeker: Efficient Detection of Watermarked Segments in Large Documents [[Arxiv]](https://arxiv.org/abs/2409.05112) [^🤝]
 
 1️⃣: First Author 🤝: Paper Contributor
 
