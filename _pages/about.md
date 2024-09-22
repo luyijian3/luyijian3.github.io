@@ -21,14 +21,12 @@ My research interest is Natural Language Processing, specifically including Larg
 - **2024.05:** Invited to serve as a reviewer for [NeurIPS 2024](https://neurips.cc/)
 - **2024.05:** 🎉🎉 My paper ["An Entropy-based Text Watermarking Detection Method"](https://aclanthology.org/2024.acl-long.630/) has been accepted to [ACL 2024](https://2024.aclweb.org/) Main Conference! 
 
-Getting started
+📚 Selected Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- An Entropy-based Text Watermarking Detection Method [[ACL 2024]](https://aclanthology.org/2024.acl-long.630/)
+- A survey of text watermarking in the era of large language models [[ACM]](https://arxiv.org/abs/2312.07913) [[Webpage]](https://survey-text-watermark.github.io/index.html)
+- MarkLLM: An Open-Source Toolkit for LLM Watermarking [[Arxiv]](https://arxiv.org/abs/2405.10051)
+- WaterSeeker: Efficient Detection of Watermarked Segments in Large Documents [[Arxiv]](https://arxiv.org/abs/2409.05112)
 
 Site-wide configuration
 ------
