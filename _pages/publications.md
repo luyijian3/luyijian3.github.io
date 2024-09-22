@@ -12,7 +12,7 @@ author_profile: true
 
 **A survey of text watermarking in the era of large language models**
 - Aiwei Liu, Leyi Pan, **Yijian Lu**, Jingjing Li, Xuming Hu, Lijie Wen, Irwin King, Philip S Yu
-- ACM Computing Survey [[Paper]](https://arxiv.org/abs/2312.07913) [[Webpage]](https://survey-text-watermark.github.io/index.html)
+- ACM Computing Survey [[Paper]](https://dl.acm.org/doi/abs/10.1145/3691626) [[Webpage]](https://survey-text-watermark.github.io/index.html)
 
 **MarkLLM: An Open-Source Toolkit for LLM Watermarking**
 - Leyi Pan, Aiwei Liu, Zhiwei He, Zitian Gao, Xuandong Zhao, **Yijian Lu**, Binglin Zhou, Shuliang Liu, Xuming Hu, Lijie Wen, Irwin King
