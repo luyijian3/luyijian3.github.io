@@ -6,8 +6,9 @@ author_profile: true
 
 ## Text Watermarking
 
-- An Entropy-based Text Watermarking Detection Method [[ACL 2024]](https://aclanthology.org/2024.acl-long.630/)
-<br>**Yijian Lu**, Aiwei Liu, Dianzhi Yu, Jingjing Li, Irwin King
+**An Entropy-based Text Watermarking Detection Method**
+- **Yijian Lu**, Aiwei Liu, Dianzhi Yu, Jingjing Li, Irwin King
+- ACL 2024 ([Paper])(https://aclanthology.org/2024.acl-long.630/)
 
 - A survey of text watermarking in the era of large language models [[ACM]](https://arxiv.org/abs/2312.07913) [[Webpage]](https://survey-text-watermark.github.io/index.html)
 <br>Aiwei Liu, Leyi Pan, **Yijian Lu**, Jingjing Li, Xuming Hu, Lijie Wen, Irwin King, Philip S Yu
