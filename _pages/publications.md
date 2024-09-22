@@ -5,7 +5,6 @@ author_profile: true
 ---
 
 **2024**
----
 
 **An Entropy-based Text Watermarking Detection Method**
 - **Yijian Lu**, Aiwei Liu, Dianzhi Yu, Jingjing Li, Irwin King
